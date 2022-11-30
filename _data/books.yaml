@@ -9,7 +9,7 @@ list:
     - The first edition, published by <a href='https://en.wikipedia.org/wiki/Thomas_Seltzer_(translator)'>Thomas Seltzer</a>, is reproduced here. Many poems submitted by the author were omitted. They would surface in <a href='https://cummings.ee/book/and/'>subsequent</a> <a href='https://cummings.ee/book/xli-poems/'>books</a> and <a href='https://wwnorton.com/books/9781631490415'>future editions</a> of this volume.
    year: 1923
    public_domain: true
-   source: The materials here come from a first edition scanned at the <a href='https://www.lapl.org/'>Los Angeles Public Library</a>. A comprehensive collection of everything Cummings intended to appear in the book can be found in Liveright’s “<a href='https://wwnorton.com/books/9781631490415'>Complete Poems</a>.”
+   source: The materials here come from a first edition scanned at the <a href='https://archive.org/details/tulips-and-chimneys'>Notre Dame Hesburgh Library</a>. A comprehensive collection of everything Cummings intended to appear in the book can be found in Liveright’s “<a href='https://wwnorton.com/books/9781631490415'>Complete Poems</a>.”
 
  - title: '&'
    slug: and
@@ -17,7 +17,7 @@ list:
      width: 200
      height: 297
    description:
-    - This 1925 self-published release featured work excluded from the first edition <a href='/book/tulips-and-chimneys/'>Tulips and Chimneys</a>, as well as some newer poems. It entered the public domain in 2021.
+    - This 1925 self-published release featured work excluded from the first edition of <a href='/book/tulips-and-chimneys/'>Tulips and Chimneys</a>, as well as some newer poems. It entered the public domain in 2021.
    year: 1925
    public_domain: true
    source: The materials here come from Liveright’s “<a href='https://wwnorton.com/books/9781631490415'>Complete Poems</a>.” The table of content was drawn from Harcourt’s "<a href='https://archive.org/details/poems192319540913cumm/page/n5/mode/2up'>Poems</a>.” If you have access to a high-quality scan of the first edition, please contact <a href='mailto:b@palewi.re'>b@palewi.re</a>.
@@ -39,9 +39,10 @@ list:
      width: 200
      height: 292
    description:
-    - Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022. Until then, it remains protected by copyright and cannot be republished here.
+    - Published in 1926 by Boni & Liveright, this book entered the public domain in 2022.
    year: 1926
-   public_domain: false
+   public_domain: true
+   source: The materials here come from a first edition scanned at the <a href='https://archive.org/details/is-5-ee-cummings'>Los Angeles Public Library</a>.
 
  - title: ViVa
    slug: viva
